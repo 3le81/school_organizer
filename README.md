@@ -22,7 +22,11 @@ This program serves as a learning exercise to enhance proficiency in Python prog
 
 1. Clone the repository:
 
+   https://github.com/3le81/school_organizer.git
+
 2. Navigate to the project directory:
+
+   cd school_organizer
 
 3. Install dependencies using pip:
 
