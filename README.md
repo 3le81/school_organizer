@@ -32,12 +32,6 @@ This program serves as a learning exercise to enhance proficiency in Python prog
    cd school_organizer
 ```
 
-3. Install dependencies using pip:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Run the program:
